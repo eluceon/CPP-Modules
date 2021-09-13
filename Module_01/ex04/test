@@ -1,0 +1,17 @@
+0Make a program00 called replace that 000takes a filename and two strings, let’s call them
+s1 and s2, that are NOT empty.
+It will open the file, and write its cont000ents to FILENAME.replace, after replacing
+every occurrence of s1 with s2.0
+All the member functions of the class std::string are allowed, except replace. Use
+them wisely!000
+Of course, you will handle errors as best you can. Do not use the C file manipulation
+functions, because that would be cheating, and cheating’s bad, m’kay?
+You will turn i00n some test files to show your program works
+
+00
+
+0
+
+
+fdgdg0fgh00
+0
